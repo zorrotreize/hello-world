@@ -6,3 +6,7 @@ I'd like to create some nice web app !
 
 // commentaire 1
 // commentaire 2
+
+<html>
+
+</html>
